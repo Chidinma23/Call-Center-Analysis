@@ -21,7 +21,6 @@ The following insights were gotten:
 7. Total call by month and response
 8. Resolved calls and average of speed of answer in seconds by topic
 
-Interact with my Dashboard and report here https://drive.google.com/file/d/1tv8NN2PlYCgUA-FOpRKCK6DCWdlpyx9_/view?usp=share_link
 
 # Conclusions
 From the analysis, the total calls made were 5000; average speed of answer is 67.52; Average satisfaction Randing of 3.40. There were more answered calls than unansered with total call of 4,054 and 946 respectively. More calls were resolved (3,646)than they were unresolved (1,354). By month and response, January got the highest rate of total and answered calls
